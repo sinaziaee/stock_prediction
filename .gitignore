@@ -1,3 +1,5 @@
 __pycache__/
-datasets/
+datasets/*
+!datasets/stock_data/
 finbert_finetuned/
+flair_model/
