@@ -16,6 +16,8 @@ They each have their own underlying principles, techniques, tool, and strategies
 
 News articles will be collected from Investing.com by web scraping using Selenium and Beautiful Soup. Sentiment analysis will then be performed using large pre-trained models on financial data including [Finbert](https://huggingface.co/yiyanghkust/finbert-tone) and [Flair](https://huggingface.co/flair) from [Hugging Face](https://huggingface.co/) to find sentiment scores before combining the results with historical stock price data to determine whether news sentiment influences stock price direction.
 
+In addition we will use Large Language Models (LLMs) that are fine-tuned on stock and stock news to predict the movements based on the sentiment of the texts. (Still under coding ...).
+
 # Technical Analysis
 
 Technical analysis is the use of charts and technical indicators to identify trading signals and price patterns. Various technical strategies will be investigated using the most common leading and lagging trend, momentum, volatility and volume indicators including Moving Averages, Moving Average Convergence Divergence (MACD), Stochastic Oscillator, Relative Strength Index (RSI), Money Flow Index (MFI), Rate of Change (ROC), Bollinger Bands, and On-Balance Volume (OBV).
