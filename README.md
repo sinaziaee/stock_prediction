@@ -1,3 +1,4 @@
+Still under coding ... :).
 # Stock Prediction
 
 The aim of this project is to investigate the performance of Machine Learning and especially Natural Language Processing in predicting the stock market direction. 
@@ -12,6 +13,8 @@ Four types of analysis exist to forecast the markets:
 They each have their own underlying principles, techniques, tool, and strategies, and understanding each one of them and combining the result of all is more optimal than relying solely on one. 
 
 # Sentiment Analysis
+
+News articles will be collected from Investing.com by web scraping using Selenium and Beautiful Soup. Sentiment analysis will then be performed using large pre-trained models on financial data including [Finbert](https://huggingface.co/yiyanghkust/finbert-tone) and [Flair](https://huggingface.co/flair) from [Hugging Face](https://huggingface.co/) to find sentiment scores before combining the results with historical stock price data to determine whether news sentiment influences stock price direction.
 
 # Technical Analysis
 
