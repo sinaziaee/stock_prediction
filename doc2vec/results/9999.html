@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    #vis.vega-embed {
+      width: 100%;
+      display: flex;
+    }
+
+    #vis.vega-embed details,
+    #vis.vega-embed details summary {
+      position: relative;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.15.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 300, "continuousHeight": 300}}, "data": {"name": "data-0d62d69420156d2436b35d525ad0d505"}, "mark": {"type": "point"}, "encoding": {"color": {"field": "component", "type": "nominal"}, "x": {"field": "x", "type": "quantitative"}, "y": {"field": "y", "type": "quantitative"}}, "$schema": "https://vega.github.io/schema/vega-lite/v5.15.1.json", "datasets": {"data-0d62d69420156d2436b35d525ad0d505": [{"x": 0.7987527251243591, "y": -4.094230651855469, "component": 0}, {"x": 0.7249045372009277, "y": -3.544407367706299, "component": 1}, {"x": 10.101075172424316, "y": 5.513400077819824, "component": 2}, {"x": -8.577310562133789, "y": 8.042718887329102, "component": 3}, {"x": -2.7219388484954834, "y": -3.728534460067749, "component": 4}, {"x": 1.1130542755126953, "y": -0.4021901786327362, "component": 5}, {"x": 0.48569104075431824, "y": 3.206249475479126, "component": 6}, {"x": 0.24227049946784973, "y": -1.221575140953064, "component": 7}, {"x": -2.166496992111206, "y": -3.7714343070983887, "component": 8}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

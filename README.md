@@ -35,11 +35,15 @@ Recurrent Neural Network (RNN) models such as Simple RNN, Long Short-Term Memory
 ![LSTM Prediction of BitCoin](https://raw.githubusercontent.com/sinaziaee/stock_prediction/master/figs/time_series_analysis.png)
 
 # Data Sources
-
 The dataset is obtained by using the apis in yahoo finance and web scraping on investing.com on the news for the 30 trending stocks in New York Stock Exchange.
 
 [Yahoo! Finance](https://ca.finance.yahoo.com/)
 [Investing.com](https://www.investing.com/)
+
+# Challenges
+- Difference between the news' headline and the body 
+- The real time that the news will have it's effect
+- The prices of a stock can change significantly in a day by different news 
 
 # Python libraries
 

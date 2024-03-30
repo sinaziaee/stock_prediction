@@ -1,31 +1,31 @@
 company,stock,link,ticker
 Tesla Inc,Tesla,https://www.investing.com/equities/tesla-motors,TSLA
-Apple Inc,Apple,https://www.investing.com/equities/apple-computer-inc,AAPL
-Beyond Meat Inc,Beyond Meat,https://www.investing.com/equities/beyond-meat-inc,BYND
-Coinbase Global Inc,Coinbase Global,https://www.investing.com/equities/coinbase-global,COIN
-Salesforce Inc,Salesforce Inc,https://www.investing.com/equities/salesforce-com,CRM
-Marathon Digital Holdings Inc,Marathon Digital,https://www.investing.com/equities/marathon-pa,MARA
-Alphabet Inc Class A,Alphabet A,https://www.investing.com/equities/google-inc,GOOGL
-Alibaba Group Holdings Ltd ADR,Alibaba ADR,https://www.investing.com/equities/alibaba,BABA
-Baidu Inc,Baidu,https://www.investing.com/equities/baidu.com,BIDU
-Nio Inc Class A ADR,Nio A ADR,https://www.investing.com/equities/nio-inc,NIO
-NVIDIA Corporation,NVIDIA,https://www.investing.com/equities/nvidia-corp,NVDA
 Palantir Technologies Inc,Palantir,https://www.investing.com/equities/palantir-technologies-inc,PLTR
-Riot Platforms,Riot Platforms,https://www.investing.com/equities/venaxis,RIOT
-AMC Entertainment Holdings Inc,AMC Entertainment,https://www.investing.com/equities/amc-entertat-hld,AMC
-MicroStrategy Incorporated,MicroStrategy,https://www.investing.com/equities/microstrategy-inc,MSTR
-eBay Inc,eBay,https://www.investing.com/equities/ebay-inc,EBAY
+NVIDIA Corporation,NVIDIA,https://www.investing.com/equities/nvidia-corp,NVDA
+Apple Inc,Apple,https://www.investing.com/equities/apple-computer-inc,AAPL
 Meta Platforms Inc,Meta Platforms,https://www.investing.com/equities/facebook-inc,META
-Snowflake Inc,Snowflake,https://www.investing.com/equities/snowflake-inc,SNOW
-Microsoft Corporation,Microsoft,https://www.investing.com/equities/microsoft-corp,MSFT
-First Solar Inc,First Solar,https://www.investing.com/equities/first-solar-inc,FSLR
-Plug Power Inc,Plug Power,https://www.investing.com/equities/plug-power,PLUG
-Novavax Inc,Novavax,https://www.investing.com/equities/novavax,NVAX
-Alphabet Inc Class C,Alphabet C,https://www.investing.com/equities/google-inc-c,GOOG
-Boeing Co,Boeing,https://www.investing.com/equities/boeing-co,BA
-Norwegian Cruise Line Holdings Ltd,Norwegian Cruise Line,https://www.investing.com/equities/norwegian-cruise-line-holdings-ltd,NCLH
 Amazon.com Inc,Amazon.com,https://www.investing.com/equities/amazon-com-inc,AMZN
+Intel Corporation,Intel,https://www.investing.com/equities/intel-corp,INTC
 Advanced Micro Devices Inc,AMD,https://www.investing.com/equities/adv-micro-device,AMD
-Virgin Galactic Holdings Inc,Virgin Galactic Holdings,https://www.investing.com/equities/social-capital-hedosophia,SPCE
-Palo Alto Networks Inc,Palo Alto Networks,https://www.investing.com/equities/palo-alto-netwrk,PANW
-UnitedHealth Group Incorporated,UnitedHealth,https://www.investing.com/equities/united-health-group,UNH
+Microsoft Corporation,Microsoft,https://www.investing.com/equities/microsoft-corp,MSFT
+Nio Inc Class A ADR,Nio A ADR,https://www.investing.com/equities/nio-inc,NIO
+AMC Entertainment Holdings Inc,AMC Entertainment,https://www.investing.com/equities/amc-entertat-hld,AMC
+Nikola Corp,Nikola,https://www.investing.com/equities/nikola-corp,NKLA
+MicroStrategy Incorporated,MicroStrategy,https://www.investing.com/equities/microstrategy-inc,MSTR
+Marathon Digital Holdings Inc,Marathon Digital,https://www.investing.com/equities/marathon-pa,MARA
+Alibaba Group Holdings Ltd ADR,Alibaba ADR,https://www.investing.com/equities/alibaba,BABA
+Walt Disney Company,Walt Disney,https://www.investing.com/equities/disney,DIS
+Coinbase Global Inc,Coinbase Global,https://www.investing.com/equities/coinbase-global,COIN
+Alphabet Inc Class A,Alphabet A,https://www.investing.com/equities/google-inc,GOOGL
+PayPal Holdings Inc,PayPal,https://www.investing.com/equities/paypal-holdings-inc,PYPL
+Bank of America Corp,Bank of America,https://www.investing.com/equities/bank-of-america,BAC
+Carnival Corporation,Carnival Corp,https://www.investing.com/equities/carnival-corp-exch,CCL
+Lucid Group Inc,Lucid Group,https://www.investing.com/equities/churchill-capital-iv,LCID
+Boeing Co,Boeing,https://www.investing.com/equities/boeing-co,BA
+Trump Media & Technology Group Corp,Trump Media & Technology Group,https://www.investing.com/equities/digital-world-acquisition,TMTG
+Super Micro Computer Inc,Super Micro Computer,https://www.investing.com/equities/super-micro-compu,SMCI
+Netflix Inc,Netflix,"https://www.investing.com/equities/netflix,-inc.",NFLX
+General Electric Company,General Electric,https://www.investing.com/equities/general-electric,GE
+Tilray Inc,Tilray,https://www.investing.com/equities/tilray-inc,TLRY
+Pfizer Inc,Pfizer,https://www.investing.com/equities/pfizer,PFE
+Snowflake Inc,Snowflake,https://www.investing.com/equities/snowflake-inc,SNOW
