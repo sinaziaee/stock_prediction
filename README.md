@@ -44,7 +44,8 @@ The dataset is obtained by using the apis in yahoo finance and web scraping on i
 - Difference between the news' headline and the body 
 - The real time that the news will have it's effect
 - The prices of a stock can change significantly in a day by different news 
-
+- The number of news for each stock differs, a stock like TMTG's last 100 news start from 2021
+until today and for NVDA it starts from the start of March 2023 to end of March 2023
 # Python libraries
 
 - Numpy

@@ -4,3 +4,4 @@ datasets/*
 finbert_finetuned/
 flair_model/
 saved_models/
+datasets/stock_data/
