@@ -7,7 +7,7 @@ The basic principle is **buy low and sell high**, but the complexity is in knowi
 Four types of analysis exist to forecast the markets:
 - Fundamental (Long term investors like Warren Buffet)
 - Technical (Day Traders approach)
-- Quantitative
+- Quantitative (Building mathematical models to simulate market trends)
 - Sentiment (The atmosphere around buying and selling)
 
 They each have their own underlying principles, techniques, tool, and strategies, and understanding each one of them and combining the result of all is more optimal than relying solely on one. 
@@ -46,6 +46,7 @@ The dataset is obtained by using the apis in yahoo finance and web scraping on i
 - The prices of a stock can change significantly in a day by different news 
 - The number of news for each stock differs, a stock like TMTG's last 100 news start from 2021
 until today and for NVDA it starts from the start of March 2023 to end of March 2023
+- The news for some dates for certain stocks are unavailable
 # Python libraries
 
 - Numpy
