@@ -1,4 +1,4 @@
-Still under coding ... :).
+Still under construction. I just need some freetime :)
 # Stock Prediction
 
 The aim of this project is to investigate the performance of Machine Learning and especially Natural Language Processing in predicting the stock market direction. 
